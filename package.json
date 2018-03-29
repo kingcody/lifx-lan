@@ -1,0 +1,10 @@
+{
+  "name": "lifx-lan",
+  "version": "1.0.0",
+  "description": "Lifx LAN Protocol Client",
+  "main": "index.js",
+  "repository": "https://github.com/kingcody/lifx-lan.git",
+  "author": "kingcody <lifx-lan@codymize.com>",
+  "license": "GPLv3",
+  "private": false
+}
