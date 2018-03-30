@@ -4,7 +4,7 @@ import set from 'lodash-es/set';
 
 import { PayloadType } from './';
 
-export class UInt16LEPayload implements PayloadType {
+export class UInt32LEPayload implements PayloadType {
   public size = 4;
 
   constructor(
