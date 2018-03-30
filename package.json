@@ -8,9 +8,11 @@
   "license": "GPLv3",
   "private": false,
   "dependencies": {
+    "lodash-es": "^4.17.8",
     "typescript": "^2.8.1"
   },
   "devDependencies": {
+    "@types/lodash-es": "^4.17.0",
     "@types/node": "^9.6.1",
     "ts-node": "^5.0.1",
     "tslint": "^5.9.1"
